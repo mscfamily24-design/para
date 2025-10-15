@@ -1,28 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
+body {
+  background-color: lightblue;
+}
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+h1 {
+  color: white;
+  text-align: center;
+}
 
-</body>
-</html
-  <!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+Click
